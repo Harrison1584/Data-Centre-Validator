@@ -1,0 +1,101 @@
+﻿Equipment ID,Zone,Material,Unit,Required Qty,Ordered Qty,Design Ref,Purchase Ref,Qty Difference,Quantity Check,Data Check
+DC-001,ZONE-1,Fibre cable spool,spool,196,196,DES-01,PO-0001,0,OK,OK
+DC-002,ZONE-1,Patch panel,unit,34,34,DES-01,PO-0002,0,OK,OK
+DC-003,ZONE-1,Network switch,unit,21,21,DES-01,PO-0003,0,OK,OK
+DC-004,ZONE-1,Rack cabinet,unit,22,22,DES-01,PO-0004,0,OK,OK
+DC-005,ZONE-1,Fibre cassette,unit,16,16,DES-01,PO-0005,0,OK,OK
+DC-006,ZONE-1,Cable tray,length,48,48,DES-01,PO-0006,0,OK,OK
+DC-007,ZONE-1,Fibre patch lead,unit,8,4,DES-01,PO-0007,-4,MISMATCH,OK
+DC-008,ZONE-1,Cable management bar,unit,20,20,DES-01,PO-0008,0,OK,OK
+DC-009,ZONE-1,Fibre cable spool,spool,168,168,DES-01,PO-0009,0,OK,OK
+DC-010,ZONE-1,Patch panel,unit,25,25,DES-01,PO-0010,0,OK,OK
+DC-011,ZONE-1,Network switch,unit,20,20,DES-01,PO-0011,0,OK,OK
+DC-012,ZONE-1,Rack cabinet,unit,27,27,DES-01,PO-0012,0,OK,OK
+DC-013,ZONE-1,Fibre cassette,unit,29,29,DES-01,PO-0013,0,OK,OK
+DC-014,ZONE-1,Cable tray,length,76,76,DES-01,PO-0014,0,OK,OK
+DC-015,ZONE-1,Fibre patch lead,unit,19,19,DES-01,PO-0015,0,OK,OK
+DC-016,ZONE-1,Cable management bar,unit,19,19,DES-01,PO-0016,0,OK,OK
+DC-017,ZONE-1,Fibre cable spool,spool,155,155,DES-01,PO-0017,0,OK,OK
+DC-018,ZONE-1,Patch panel,unit,8,18,DES-01,PO-0018,10,MISMATCH,OK
+DC-019,ZONE-1,Network switch,unit,40,40,DES-01,PO-0019,0,OK,OK
+DC-020,ZONE-1,Rack cabinet,unit,9,9,DES-01,PO-0020,0,OK,OK
+DC-021,ZONE-2,Fibre cassette,unit,31,31,DES-02,PO-0021,0,OK,OK
+DC-022,ZONE-2,Cable tray,length,228,228,DES-02,PO-0022,0,OK,OK
+DC-023,ZONE-2,Fibre patch lead,unit,30,30,DES-02,PO-0023,0,OK,OK
+DC-024,ZONE-2,Cable management bar,unit,7,7,DES-02,PO-0024,0,OK,OK
+DC-025,ZONE-2,Fibre cable spool,spool,198,,DES-02,PO-0025,,MISSING,OK
+DC-026,ZONE-2,Patch panel,unit,32,32,DES-02,PO-0026,0,OK,OK
+DC-027,ZONE-2,Network switch,unit,26,26,DES-02,PO-0027,0,OK,OK
+DC-028,ZONE-2,Rack cabinet,unit,4,4,DES-02,PO-0028,0,OK,OK
+DC-029,ZONE-2,Fibre cassette,unit,34,34,DES-02,PO-0029,0,OK,OK
+DC-030,ZONE-2,Cable tray,length,94,94,DES-02,PO-0030,0,OK,OK
+DC-031,ZONE-2,Fibre patch lead,unit,12,12,DES-02,PO-0031,0,OK,OK
+DC-032,ZONE-2,Cable management bar,unit,25,25,DES-02,PO-0032,0,OK,OK
+DC-033,ZONE-2,Fibre cable spool,spool,186,180,DES-02,PO-0033,-6,MISMATCH,OK
+DC-034,ZONE-2,Patch panel,unit,18,18,DES-02,PO-0034,0,OK,OK
+DC-035,ZONE-2,Network switch,unit,37,37,DES-02,PO-0035,0,OK,OK
+DC-036,ZONE-2,Rack cabinet,unit,13,13,DES-02,PO-0036,0,OK,OK
+DC-037,ZONE-2,Fibre cassette,unit,10,10,DES-02,PO-0037,0,OK,OK
+DC-038,ZONE-2,Cable tray,length,130,130,DES-02,PO-0038,0,OK,OK
+DC-039,ZONE-2,Fibre patch lead,unit,23,23,DES-02,PO-0039,0,OK,OK
+DC-040,ZONE-2,Cable management bar,unit,6,6,DES-02,PO-0040,0,OK,OK
+DC-041,ZONE-3,Fibre cable spool,spool,228,228,DES-03,PO-0041,0,OK,OK
+DC-042,ZONE-3,Patch panel,,37,37,DES-03,PO-0042,0,OK,MISSING FIELD
+DC-043,ZONE-3,Network switch,unit,9,9,DES-03,PO-0043,0,OK,OK
+DC-044,ZONE-3,Rack cabinet,unit,14,14,DES-03,PO-0044,0,OK,OK
+DC-045,ZONE-3,Fibre cassette,unit,33,33,DES-03,PO-0045,0,OK,OK
+DC-046,ZONE-3,Cable tray,length,211,211,DES-03,PO-0046,0,OK,OK
+DC-047,ZONE-3,Fibre patch lead,unit,13,13,DES-03,PO-0047,0,OK,OK
+DC-048,ZONE-3,Cable management bar,unit,20,20,DES-03,PO-0048,0,OK,OK
+DC-049,ZONE-3,Fibre cable spool,spool,168,168,DES-03,PO-0049,0,OK,OK
+DC-050,ZONE-3,Patch panel,unit,7,7,DES-03,PO-0050,0,OK,OK
+DC-051,ZONE-3,Network switch,unit,15,15,DES-03,PO-0051,0,OK,OK
+DC-052,ZONE-3,Rack cabinet,unit,4,4,DES-03,PO-0052,0,OK,OK
+DC-053,ZONE-3,Fibre cassette,unit,32,32,DES-03,PO-0053,0,OK,OK
+DC-054,ZONE-3,Cable tray,length,229,229,DES-03,PO-0054,0,OK,OK
+DC-055,ZONE-3,Fibre patch lead,unit,13,13,DES-03,PO-0055,0,OK,OK
+DC-056,ZONE-3,Cable management bar,unit,26,26,DES-03,PO-0056,0,OK,OK
+DC-057,ZONE-3,Fibre cable spool,spool,176,176,DES-03,PO-0057,0,OK,OK
+DC-058,ZONE-3,Patch panel,unit,40,40,DES-03,PO-0058,0,OK,OK
+DC-059,ZONE-3,Network switch,unit,30,33,DES-03,PO-0059,3,MISMATCH,OK
+DC-060,ZONE-3,Rack cabinet,unit,8,8,DES-03,PO-0060,0,OK,OK
+DC-061,ZONE-4,Fibre cassette,unit,23,23,DES-04,PO-0061,0,OK,OK
+DC-062,ZONE-4,Cable tray,length,142,142,DES-04,PO-0062,0,OK,OK
+DC-063,ZONE-4,Fibre patch lead,unit,33,33,DES-04,PO-0063,0,OK,OK
+DC-064,ZONE-4,Cable management bar,unit,26,26,DES-04,PO-0064,0,OK,DUPLICATE ID
+DC-064,ZONE-4,Fibre cable spool,spool,33,33,DES-04,PO-0065,0,OK,DUPLICATE ID
+DC-066,ZONE-4,Patch panel,unit,27,27,DES-04,PO-0066,0,OK,OK
+DC-067,ZONE-4,Network switch,unit,14,14,DES-04,PO-0067,0,OK,OK
+DC-068,ZONE-4,Rack cabinet,unit,20,20,DES-04,PO-0068,0,OK,OK
+DC-069,ZONE-4,Fibre cassette,unit,15,15,DES-04,PO-0069,0,OK,OK
+DC-070,ZONE-4,Cable tray,length,153,153,DES-04,PO-0070,0,OK,OK
+DC-071,ZONE-4,Fibre patch lead,unit,26,26,DES-04,PO-0071,0,OK,OK
+DC-072,ZONE-4,Cable management bar,unit,37,37,DES-04,PO-0072,0,OK,OK
+DC-073,ZONE-4,Fibre cable spool,spool,45,45,DES-04,PO-0073,0,OK,OK
+DC-074,ZONE-4,Patch panel,unit,37,37,DES-04,PO-0074,0,OK,OK
+DC-075,ZONE-4,Network switch,unit,19,19,DES-04,PO-0075,0,OK,OK
+DC-076,ZONE-4,Rack cabinet,unit,14,14,DES-04,PO-0076,0,OK,OK
+DC-077,ZONE-4,Fibre cassette,unit,17,17,DES-04,PO-0077,0,OK,OK
+DC-078,ZONE-4,Cable tray,length,225,217,DES-04,PO-0078,-8,MISMATCH,OK
+DC-079,ZONE-4,Fibre patch lead,unit,35,35,DES-04,PO-0079,0,OK,OK
+DC-080,ZONE-4,Cable management bar,unit,39,39,DES-04,PO-0080,0,OK,OK
+DC-081,ZONE-5,Fibre cable spool,spool,53,53,DES-05,PO-0081,0,OK,OK
+DC-082,ZONE-5,Patch panel,unit,25,25,DES-05,PO-0082,0,OK,OK
+DC-083,ZONE-5,Network switch,unit,25,25,DES-05,PO-0083,0,OK,OK
+DC-084,ZONE-5,Rack cabinet,unit,7,7,,PO-0084,0,OK,MISSING FIELD
+DC-085,ZONE-5,Fibre cassette,unit,29,29,DES-05,PO-0085,0,OK,OK
+DC-086,ZONE-5,Cable tray,length,117,117,DES-05,PO-0086,0,OK,OK
+DC-087,ZONE-5,Fibre patch lead,unit,11,11,DES-05,PO-0087,0,OK,OK
+DC-088,ZONE-5,Cable management bar,unit,23,23,DES-05,PO-0088,0,OK,OK
+DC-089,ZONE-5,Fibre cable spool,spool,95,95,DES-05,PO-0089,0,OK,OK
+DC-090,ZONE-5,Patch panel,unit,39,39,DES-05,PO-0090,0,OK,OK
+DC-091,ZONE-5,Network switch,unit,9,9,DES-05,PO-0091,0,OK,OK
+DC-092,ZONE-5,Rack cabinet,unit,23,23,DES-05,PO-0092,0,OK,OK
+DC-093,ZONE-5,Fibre cassette,unit,33,38,DES-05,PO-0093,5,MISMATCH,OK
+DC-094,ZONE-5,Cable tray,length,148,148,DES-05,PO-0094,0,OK,OK
+DC-095,ZONE-5,Fibre patch lead,unit,22,22,DES-05,PO-0095,0,OK,OK
+DC-096,ZONE-5,Cable management bar,unit,36,36,DES-05,PO-0096,0,OK,OK
+DC-097,ZONE-5,Fibre cable spool,spool,60,60,DES-05,PO-0097,0,OK,OK
+DC-098,ZONE-5,Patch panel,unit,5,5,DES-05,PO-0098,0,OK,OK
+DC-099,ZONE-5,Network switch,unit,22,22,DES-05,PO-0099,0,OK,OK
+DC-100,ZONE-5,Rack cabinet,unit,17,17,DES-05,PO-0100,0,OK,OK

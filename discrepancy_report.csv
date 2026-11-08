@@ -1,0 +1,12 @@
+﻿Excel Row,Equipment ID,Material,Issue
+8,DC-007,Fibre patch lead,Quantity mismatch (-4)
+19,DC-018,Patch panel,Quantity mismatch (+10)
+26,DC-025,Fibre cable spool,Missing Ordered Qty
+34,DC-033,Fibre cable spool,Quantity mismatch (-6)
+43,DC-042,Patch panel,Missing Unit
+60,DC-059,Network switch,Quantity mismatch (+3)
+65,DC-064,Cable management bar,Duplicate equipment ID
+66,DC-064,Fibre cable spool,Duplicate equipment ID
+79,DC-078,Cable tray,Quantity mismatch (-8)
+85,DC-084,Rack cabinet,Missing Design Ref
+94,DC-093,Fibre cassette,Quantity mismatch (+5)
